@@ -237,4 +237,4 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
-@endsection
+@endsection"/* Enhanced form validation for sales module */" 
